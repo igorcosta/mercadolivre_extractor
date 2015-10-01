@@ -28,7 +28,7 @@ Python
   2. Instale os requisitos pip install -r requirements.txt
   3. Use as funções exportJSON() ou exportSQL()
 
-# Como executar:
+## Como executar:
 
  ```yaml
     	python mercadolivre_extractor.py
@@ -41,7 +41,7 @@ Use com sabedoria, compartilhe conhecimento!
 
 ## Licença MIT
 
- Copyright (c) <2015> <igor Costa igorcosta Arrocba gmail.com>
+ Copyright (c) 2015 Igor Costa (igorcostaARROBAgmail.com)
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
